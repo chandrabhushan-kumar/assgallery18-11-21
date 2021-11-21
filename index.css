@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+}
+
+.photowrapper{
+    height: 830px;
+    width: 100%;
+    background-color: #c95598;
+}
+h1{
+    text-align: center;
+    padding-top: 30px;
+}
+.photo-wrapper1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+.photo-wrapper2{
+    display: flex;
+    justify-content: center;
+    margin-top: 3px;
+    flex-wrap: wrap;
+}
+.photo-wrapper3{
+    display: flex;
+    justify-content: center;
+    margin-top: 3px;
+    flex-wrap: wrap;
+}
+.photo1{
+    height:200px;
+    width:200px;
+    background-image: url("https://images.pexels.com/photos/1740897/pexels-photo-1740897.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    border:1px solid black;
+    background-repeat: no-repeat;
+    background-size: cover;
+   margin: 10px;
+}
+
+.photo2{
+    height:200px;
+    width:200px;
+    background-image: url("https://images.pexels.com/photos/3491680/pexels-photo-3491680.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    border:1px solid black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+.photo3{
+    height:200px;
+    width:200px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh3Rn3298OFKsZneCdG1eVZ-qCKyo-DOK8lqD_z9kOId8rwuEF60uV5WndshE-rHfZ8Lc&usqp=CAU");
+    border:1px solid black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+.photo4{
+    height:200px;
+    width:200px;
+    background-image: url("https://images.pexels.com/photos/3375234/pexels-photo-3375234.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    border:1px solid black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+.photo5{
+    height:200px;
+    width:200px;
+    background-image: url("https://images.pexels.com/photos/5749112/pexels-photo-5749112.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    border:1px solid black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+.photo6{
+    height:200px;
+    width:200px;
+    background-image: url("https://images.pexels.com/photos/5749111/pexels-photo-5749111.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    border:1px solid black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+.photo7{
+    height:200px;
+    width:200px;
+    background-image: url("https://images.pexels.com/photos/4004463/pexels-photo-4004463.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    border:1px solid black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+.photo8{
+    height:200px;
+    width:200px;
+    background-image: url("https://images.pexels.com/photos/7084566/pexels-photo-7084566.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    border:1px solid black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+.photo9{
+    height:200px;
+    width:200px;
+    background-image: url("https://images.pexels.com/photos/5722995/pexels-photo-5722995.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    border:1px solid black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+.photo10{
+    height:200px;
+    width:200px;
+    background-image: url("https://images.pexels.com/photos/5722991/pexels-photo-5722991.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    border:1px solid black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+.photo11{
+    height:200px;
+    width:200px;
+    background-image: url("https://images.pexels.com/photos/5200827/pexels-photo-5200827.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    border:1px solid black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+.photo12{
+    height:200px;
+    width:200px;
+    background-image: url("https://images.pexels.com/photos/5709278/pexels-photo-5709278.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    border:1px solid black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
